@@ -1,0 +1,29 @@
+body{
+  background-color: white;
+}
+header{
+  width: 1900px;
+  height: 200px;
+  margin:0 0;
+  background-color: black;
+}
+a{
+  background-color: #fff;
+  width: 400px;
+  height: inherit;
+  margin: auto;
+}
+header img{
+  width: 50%;
+  height: 50%;
+  margin: 0 0;
+}
+article{
+  width: inherit;
+  height: 200px;
+}
+article img {
+  width: 50%;
+  height: 80%;
+  margin: 0 300px;
+}
