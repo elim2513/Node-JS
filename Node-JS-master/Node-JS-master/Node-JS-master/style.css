@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+header{
+  width: inherit;
+  height: 200px;
+}
+a{
+  background-color: #fff;
+  width: 400px;
+  height: inherit;
+  margin: auto;
+}
+header img{
+  width:40%;
+  height: 75%;
+  margin: 0 100px;
+}
+article{
+  width: inherit;
+  height: 200px;
+}
+article img {
+  width: 70%;
+  height: 70%;
+  margin:
+}
